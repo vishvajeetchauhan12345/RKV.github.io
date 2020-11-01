@@ -347,8 +347,8 @@ th{
 }
 
 /* new section added       */
-@media screen and (max-width:200%){
-   .page-5 ,.sub-page-5{
+@media screen and (max-width:110%){
+   .page-5 ,.sub-page-5,.container3,.container2{
     width:80%;
       align-content: center;
 	    justify-content: center;
