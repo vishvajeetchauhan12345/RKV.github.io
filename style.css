@@ -349,7 +349,7 @@ th{
 /* new section added       */
 @media screen and (max-width:110%){
    .page-5 ,.sub-page-5,.container3,.container2{
-    width:80%;
+    width:100%;
       align-content: center;
 	    justify-content: center;
 	    box-sizing: content-box;
